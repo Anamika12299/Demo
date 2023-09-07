@@ -1,4 +1,4 @@
 # Demo
 This is My first repository
 <br>
-Author - Anamika 
+Author - Anamika Singh
